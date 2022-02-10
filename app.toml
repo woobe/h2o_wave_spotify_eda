@@ -1,0 +1,8 @@
+[App]
+Name = "spotify-eda-app"
+Version = "0.0.1"
+Title = "Spotify EDA"
+Description = "Exploratory Data Analysis on Spotify Data"
+
+[Runtime]
+Module = "src.app"

@@ -1,8 +1,10 @@
 [App]
-Name = "spotify-eda-app"
-Version = "0.0.1"
+Name = "ai.h2o.wave.spotify-eda"
+Version = "0.0.2"
 Title = "Spotify EDA"
 Description = "Exploratory Data Analysis on Spotify Data"
+Category = "Exploratory Data Analysis"
+Keywords = ["Exploratory Data Analysis", "EDA", "Wave", "Open Source"]
 
 [Runtime]
 Module = "src.app"

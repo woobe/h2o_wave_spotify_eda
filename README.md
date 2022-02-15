@@ -1,5 +1,9 @@
 # H2O Wave Demo App - Spotify EDA
 
+## Blog Post
+
+- https://www.h2o.ai/blog/how-to-create-your-spotify-eda-app-with-h2o-wave/
+
 
 ## Local Development
 
